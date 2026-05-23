@@ -1,0 +1,79 @@
+.uber-button{
+    background-color: black;
+    color: white;
+    height: 42px;
+    width: 120px;
+    font-size: 14px;
+  }
+
+  .amazon-button{
+    background-color: yellow;
+    border: none;
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 20px;
+  }
+
+  .github-button{
+    background-color: rgb(6, 211, 64);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 7px;
+    height: 45px;
+    width: 125px;
+  }
+
+  .bootstrap-button{
+    background-color: rgb(69, 4, 129);
+    color: white;
+    border: none;
+    height: 45px;
+    width: 130px;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8;
+  }
+
+  .download-button{
+    background-color: white;
+    height: 45px;
+    width: 130px;
+    border-radius: 3px;
+    border-width: 1px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+  .linkedln-button{
+    background-color: rgb(47, 47, 226);
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    width: 260px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    margin-right: 8;
+    cursor: pointer;
+  }
+
+  .save-button{
+    background-color: white;
+    color: blue;
+    height: 40px;
+    width: 90px;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    border-width: 1px;
+    cursor: pointer;
+  }

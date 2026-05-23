@@ -1,0 +1,17 @@
+.title{
+  font-family: Montserrat;
+  font-size: 30px;
+  margin-bottom: 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.description{
+  font-family: Montserrat;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.emphasis{
+  text-decoration: underline;
+}

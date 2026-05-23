@@ -1,0 +1,156 @@
+.tahoma{
+    font-family: tahoma;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+  .arial{
+    width: 230px;
+    font-family: arial;
+    line-height: 20px;
+    font-size: 17px;
+  }
+
+  .deals{
+    font-style: italic;
+    font-size: 13px;
+    color: rgb(247, 2, 2);
+  }
+  
+  .title{
+    width: 180px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+
+  .description{
+    font-size: 12px;
+    color: rgb(156, 155, 155);
+    
+  }
+
+  .content{
+    width: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .link{
+    background-color: green;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: none;
+    font-size: 13px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .question{
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 0;
+  }
+  .apple-des{
+    font-family: arial;
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 13px;
+  }
+
+  .click{
+    font-family: arial;
+    color: blue;
+    font-size: 13px;
+    text-align: center;
+  }
+  .first{
+    color: orangered;
+    font-family: arial;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  .second{
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 0;
+  }
+  .third{
+    font-family: arial;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .fourth{
+    font-family: arial;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 6px;
+  }
+  .i{
+    font-family: arial;
+    margin-right: 0;
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+  .ii{
+    font-size: 10px;
+    color: rgb(46, 45, 45);
+    margin-left: 4px;
+  }
+  .iii{
+    color: green;
+    font-family: arial;
+    font-size: 10px;
+    margin-top: 4px;
+    margin-bottom: 0;
+  }
+  .iv{
+    font-family: arial;
+    font-size: 10px;
+    color:  rgb(46, 45, 45);
+    margin-top: 6px;
+  }
+  .v{
+    color: red;
+  }
+
+  .un{
+    font-family: arial;
+    font-size: 12px;
+    margin-bottom: 0;
+  }
+  .deux{
+    color:  rgb(46, 45, 45);
+  }
+  .trois{
+    font-family: arial;
+    font-size: 12px;
+    margin-top: 5px;
+    width: 400px;
+    line-height: 18px;
+  }
+  .quartz{
+    font-family: arial;
+    font-size: 12px;
+  }
+  .quint{
+    color: rgb(20, 98, 241);
+  }

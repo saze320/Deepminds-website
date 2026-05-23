@@ -1,0 +1,175 @@
+      .name{
+        display: block;
+        margin-bottom: 4px;
+      }
+      .email{
+        display: block;
+      }
+
+      .end{
+        width: 200px;
+        display: inline-block;
+      }
+      .final{
+        vertical-align: middle;
+        margin-bottom: 40px;
+      }
+
+      .logo{
+        width: 100px;
+        height: 35px;
+        object-fit: cover;
+        display: inline-block;
+        
+      }
+      .pray{
+        text-align: center;
+        
+      }
+
+      .click{
+        border: none;
+        box-shadow: 1px 1px 5px -1.2px rgba(0, 0, 0, 0.7);
+        width: 400px;
+        border-radius: 20px;
+        padding-left: 16px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        
+        
+      }
+      .plan{
+        text-align: center;
+        margin-top: 1px;
+      }
+      .click::placeholder{
+        color: black;
+        font-size: 12px;
+       
+      }
+
+      .sub{
+        background-color: rgb(202, 199, 199);
+        padding: 8px 12px 8px 12px;
+        margin-right: 8px;
+        
+      }
+       
+      
+      .sub-2{
+        background-color: rgb(202, 199, 199);
+        padding: 8px 12px 8px 12px;
+        
+      }
+        
+      .sub-3{
+        text-align: center;
+        margin-top: 20px;
+        font-family: verdana;
+        font-size: 12px;
+      }
+       
+
+      .age{
+        padding-top:8px; 
+        padding-bottom:8px;
+        padding-left:12px;
+        border-radius: 7px;
+        border-style: solid;
+        border-width: 1px;
+        width: 100px;
+        
+      }
+      .age::placeholder{
+        color: rgb(24, 23, 23);
+      }
+      .id{
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-left: 10px;
+        border-radius: 7px;
+        border-style: solid;
+        width: 220px;
+        display: block;
+        margin-top: 8px;
+        border-width: 1px;
+      }
+      .id::placeholder{
+        color:  rgb(24, 23, 23);
+      }
+      .page{
+        background-color: rgb(59, 59, 190);
+        color: white;
+        border-radius: 7px;
+        border: none;
+        width: 235px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        margin-top: 8px;
+      }
+
+      .first{
+        font-size: 24px;
+        font-family: Arial, Helvetica, sans-serif;
+
+      }
+      .second{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        font-size: 12px;
+        width: 270px;
+        background-color: rgb(212, 205, 205);
+        border: none;
+        display: block;
+        margin-bottom: 6px;
+      }
+      .second::placeholder{
+        color: black;
+      }
+      .third{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        font-size: 12px;
+        width: 270px;
+        background-color: rgb(212, 205, 205);
+        border: none;
+        display: block;
+       }
+      .third::placeholder{
+        color: black;
+      }
+      .link{
+        color: white;
+        background-color: black;
+        border: none;
+        padding: 10px 16px 10px 16px;
+        margin-top: 30px;
+        font-size: 12px;
+        cursor: pointer;
+        transition: opacity 0.2s;
+      }
+      .link:hover{
+        opacity: 0.7;
+      }
+      .link:active{
+        opacity: 0.5;
+      }
+      .later{
+        background-color:  rgb(212, 205, 205);
+         padding: 10px 16px 10px 16px;
+          border: none;
+          margin-left: 12px;
+          font-size: 12px;
+          font-weight: bold;
+          cursor: pointer;
+          transition: box-shadow 0.2s opacity 0.2s;
+
+      }
+      .later:hover{
+        box-shadow: 1px 2px 8px -1px rgba(0, 0, 0, 0.7);
+      }
+      .later:active{
+        opacity: 0.7;
+      }

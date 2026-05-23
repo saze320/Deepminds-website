@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exercise 9</title>
+
+    <style>
+      .square{
+        background-color: red; 
+         width: 100px;  
+       height: 100px;
+       display: inline-block;
+      }
+
+      .circle{
+        background-color: green;
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        display: inline-block;
+      }
+
+      .box-end{
+        width: 300px;
+        border-width: 1px;
+        border-style: solid;
+        padding-bottom: 16px;
+        padding-left: 14px;
+        margin-bottom: 4px;
+      }
+
+      .text{
+        color: white;
+        background-color: black;
+        width: 250px;
+        font-family: arial;
+        padding-left: 10px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+      }
+      .des{
+        font-size: 11px;
+      }
+
+      .first{
+        width: 40px;
+        height: 40px;
+        border-radius: 20px;
+        vertical-align: middle;
+      
+      }
+      .second{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px;
+        display: inline-block;
+        vertical-align: middle;
+        margin-left: 8px;
+      }
+      .third{
+        background-color: rgb(93, 93, 248);
+        color: white;
+        border: none;
+        padding: 6px 16px 6px 16px;
+        border-radius: 20px;
+        vertical-align: middle;
+        margin-left: 100px;
+        cursor: pointer;
+        transition: box-shadow 0.2s, opacity 0.2s;
+      }
+      .third:hover{
+        box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.7);
+      }
+      .third:active{
+        opacity: 0.8;
+      }
+      .info{
+        width: 400px;
+        margin-top: 4px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 8px;
+        border-radius: 5px;
+        box-shadow: 1px 1px 10px -3px rgba(0, 0, 0, 0.5);
+        
+      }
+
+    
+      .friend{
+        width: 150px;
+        height: 110px;
+        vertical-align: bottom;
+        margin-top: 8px;
+      }
+
+      .mutual{
+        font-family: arial;
+        line-height: 8px;
+        box-shadow: 1px 1px 10px -3px rgba(0, 0, 0, 0.7);
+        padding-left: 7px;
+        padding-bottom: 8px;
+        padding-right: 34px;
+        padding-top: 8px;
+        width: 110px;
+        border-radius: 5px;
+      }
+      .stats{
+        font-size: 13px;
+      }
+      .link{
+        background-color: rgb(55, 55, 207);
+        border: none;
+        border-radius: 3px;
+        padding: 8px 16px 8px 16px;
+        color: white;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="square">
+     
+    </div>
+
+    <div class="circle">
+
+    </div>
+
+    <div class="box-end">
+      <p>
+        Satisfied with our srvices?
+      </p>
+      <button>Yes</button>
+      <button>No</button>
+    </div>
+
+    <div class="text">
+      <P>
+        Install YouTube Music  
+      </P>
+      <p class="des">
+        Add YouTube Music to your desktop for quick
+        and easy access
+      </p>
+    </div>
+
+    <div class="info">
+
+      <img class="first" src="thumbnails/Rhino.webp">
+      <p class="second">What's happening?</p>
+      <button class="third">Tweet</button>
+
+    </div>
+
+     <img class="friend" src="thumbnails/Rhino.webp">
+     <div class="mutual">
+       
+       <p><strong>Oliver</strong></p>
+       <p class="stats">2 mutual friends</p>
+       <button class="link">Add Friend</button>
+    </div>
+  </body>
+</html>
